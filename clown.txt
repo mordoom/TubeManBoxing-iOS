@@ -1,0 +1,9 @@
+idle,3,0.17f,highattack,lowattack,0,0
+highattack,1,0.5f,rightjab,idle,3,0
+lowattack,1,0.5f,uppercut,lowjab,3,0
+uppercut,1,0.6f,idle,idle,5,0
+rightjab,1,0.5f,leftjab,idle,4,0
+leftjab,1,0.6f,idle,idle,4,0
+lowjab,1,0.6f,idle,idle,4,0
+special,5,0.20f,idle,idle,15,0.3f
+deflate,1,1.0f,uppercut,idle,0,0
